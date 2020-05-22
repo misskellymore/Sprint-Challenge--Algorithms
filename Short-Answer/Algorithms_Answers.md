@@ -8,7 +8,7 @@ a) O(log(n))
 b) O(n^c)
 
 
-c) 
+c) O(n)
 
 ## Exercise II
 
