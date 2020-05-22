@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(log(n))
 
 
-b)
+b) O(n^c)
 
 
-c)
+c) 
 
 ## Exercise II
 
