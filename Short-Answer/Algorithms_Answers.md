@@ -2,13 +2,14 @@
 
 ## Exercise I
 
-a) O(log(n)) - As the size of the input increases, the runtime or space used will grow at a slightly slower rate than O(1). O(log n) is the second best solution.
+a) O(n) - We are only iterating n
 
 
-b) O(n^c) - Nested loops. As the size of the input increases, the runtime used will grow quickly and is not scalable.
+b) O(n log n) - We are skipping over ever other j, cutting 
+it in half like BST
 
 
-c) O(c^n) - As the size of the input increases, the runtime or space used will grow at a much faster rate; O(c^n) is inefficient 
+c) O(n) - There is only 1 recursion
 
 ## Exercise II
 
